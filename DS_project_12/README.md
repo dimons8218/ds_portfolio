@@ -13,4 +13,4 @@
 Построить модель по прогнозированию количества заказов такси на следующий час.
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, seaborn, statsmodels, sklearn, lightgbm, catboost*
+*pandas, matplotlib, seaborn, statsmodels, sklearn, lightgbm, catboost*
