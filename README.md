@@ -11,8 +11,7 @@
 Контакты:
 * Почта: [dimons8218@yandex.ru](mailto:dimons8218@yandex.ru)
 * Telegram: [@SukhorukovDmitry](https://t.me/SukhorukovDmitry)
-
-[Резюме на hh](https://novosibirsk.hh.ru/resume/2b567297ff0ceec94a0039ed1f57786c4c7130)
+* HeadHunter: [резюме](https://novosibirsk.hh.ru/resume/2b567297ff0ceec94a0039ed1f57786c4c7130)
 
 Используемые технологии: Python, Pandas, Matplotlib, Sklearn, Seaborn, NumPy, SQL, CatBoost, LightGBM.
 
